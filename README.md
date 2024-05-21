@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavtiwari-at" alt="abhinavtiwari-at" /></a> </p>
 
-- 🌱 I’m currently learning **Mongo DB,Express,Node js**
+- 🌱 I’m currently learning **Core Java,Spring & Spring Boot**
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **abhinavtiwari3056@gmail.com**
 
-- 📄 Know about my experiences [http://tinyurl.com/2uk58ea5](http://tinyurl.com/2uk58ea5)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I love bike riding & coding**
 
