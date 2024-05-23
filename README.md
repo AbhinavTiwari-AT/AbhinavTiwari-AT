@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Core Java,Spring & Spring Boot**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **abhinavtiwari3056@gmail.com**
 
