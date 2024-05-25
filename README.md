@@ -2,6 +2,8 @@
  🌱 I’m currently learning **Java,Spring & Spring Boot**<br><br>- 💬 Ask me about ****<br><br>- 📫 How to reach me **abhinavtiwari3056@gmail.com**<br><br>- 📄 Know about my experiences <br><br>- ⚡ Fun fact **I love bike riding & coding**<br>
 
 
+[![](https://visitcount.itsvg.in/api?id=AbhinavTiwari-AT&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhinav-tiwari-a8768a242/) 
 
@@ -25,6 +27,5 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbhinavTiwari-AT&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
